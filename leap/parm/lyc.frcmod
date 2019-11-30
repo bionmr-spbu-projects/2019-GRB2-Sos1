@@ -1,0 +1,13 @@
+all these parameters are from gaff2
+
+ANGLE
+C-CT-Cl    71.700     110.410          SOURCE4_SOURCE5      146    1.5057   gaff2 c -c3-cl 
+S-CT-C     63.788     108.840          SOURCE3_SOURCE5      149    1.5563   gaff2 c -c3-ss
+
+DIHE
+
+
+IMPROPER
+
+
+
